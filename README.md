@@ -1,7 +1,7 @@
 # TINDER-CLONE
 
 ## Description
-
+    CREATED A TINDER clone to better understand how Reactjs works with Firebase
 
 
 
@@ -19,4 +19,4 @@
     4)  
 
 ###### Version 1.0
-    1.0
+    1.0# tinderClone 
